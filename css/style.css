@@ -1,0 +1,32 @@
+body {
+	font-family: 'Open Sans', Arial, sans-serif;
+	font-size: 67.5%;
+	background-color: #f7f6f6;
+	margin: 0;
+	padding: 0;
+}
+
+h1, h2, h3 {
+	font-weight: normal;
+}
+
+h1 {
+	font-size: 28px;
+}
+
+p {
+	font-size: 1.3em;
+	line-height: 1.4em;
+	font-weight: 300;
+}
+
+/* $MAIN SECTION
+========================*/
+
+.wrapper {
+	max-width: 960px;
+	margin: 0 auto;
+	padding: 20px;
+	background-color: white;
+	border-radius: 4px;
+}
